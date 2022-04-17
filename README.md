@@ -1,6 +1,8 @@
 # Operating-System-Sounds
 Stew The True's Overhaul of Windows 10 soundbank.
 
+**'s are unfulfilled. Could be in the future. 
+
  ### Windows
  1. Asterisk 
  2. Calendar Reminder 
@@ -23,8 +25,8 @@ Stew The True's Overhaul of Windows 10 soundbank.
  19. New Fax Notification
  20. New Mail Notification
  21. New Text Message Notification
- 22. NFP CompletionXXXXXXXXXXXXXXXXXXXXXX
- 23. NFP ConnectionXXXXXXXXXXXXXXXXXXXXXX
+ 22. NFP Completion
+ 23. NFP Connection
  24. Notification
  25. Open  **
  26. Print Complete **
